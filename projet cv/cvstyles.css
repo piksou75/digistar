@@ -1,0 +1,56 @@
+html{
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+
+    
+}
+body{
+    margin: 0px;
+}
+nav{
+    display: flex;
+    background-color: cornflowerblue;
+}
+
+.menu{
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-left: 25px;
+text-decoration: underline;
+
+}
+
+
+
+.photo{
+width: 150px;
+border-bottom-left-radius: 50px;
+border-top-right-radius: 50px;
+box-shadow: 3px 3px 6px #AAA;
+}
+
+ 
+aside{
+    float: left;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.liendroite{
+    /*float:right;*/
+    padding-bottom:50px;
+    text-align: right;
+    color: blanchedalmond;
+}
+.liengauche{
+    margin-top: 25px;
+    color: blanchedalmond;
+    
+}
+.lienblanc{
+    color: blanchedalmond;
+}
+.footer{
+    background-color: cornflowerblue;
+    color: blanchedalmond;
+    
+}
